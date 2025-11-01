@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Monochrome Generator",
+  "description": "Generate monochrome images from text prompts. All images are created with white lines on a black background using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
